@@ -1,4 +1,4 @@
-My Awesome Book
+简介
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+有时想告诉周围的人如何学习和使用php，但却不知道从何说起。有些人说php简单，有些对php不屑一顾，有些则担心效率问题...总之各种诟病。
