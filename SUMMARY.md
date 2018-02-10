@@ -7,9 +7,9 @@
   * [1.1 类型](1_yu_yan_xi_jie/1_yu_yan_xi_jie.md)
   * [1.2变量](1_yu_yan_xi_jie/12bian-liang.md)
   * [1.3常量](1_yu_yan_xi_jie/13chang-liang.md)
-* [数据结构](shu_ju_jie_gou.md)
+* [数据结构(可能跑题了？)](shu_ju_jie_gou.md)
   * [数组](shu_ju_jie_gou/shu-zu.md)
-* 算法
+* 算法(有点跑题？)
   * 排序
     * 冒泡排序
     * 快速排序
