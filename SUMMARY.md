@@ -6,7 +6,7 @@
 * 准备
   * [开发环境与生产环境](zhun_bei/env.md)
   * [从哪里开始](zhun_bei/start.md)
-  * 
+  * [html](zhun_bei/html.md)
 * [语言细节](1_yu_yan_xi_jie/1_yu_yan_xi_jie.md)
   * [1.1 类型](1_yu_yan_xi_jie/1_1_lei_xing.md)
   * [1.2变量](1_yu_yan_xi_jie/12bian-liang.md)
