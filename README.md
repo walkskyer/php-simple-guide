@@ -12,3 +12,9 @@ php的语法跟C有些相像，几乎所有的php教程里都会这样讲。所�
 php的开发文档( http://php.net/manual/zh/ )内容很丰富，有语言参考和函数参考等，涵盖了php的各个方面。在我看来好好阅读官方文档，胜过阅读其他任何教程。而且能够让你摆脱对搜索引擎的依赖。我接触的一些朋友，入门php时，总有些奇怪的动作，就是关于php的知识总是依靠搜索引擎。当然这是基础不扎实。而且当我要求他们看文档的时候，总觉得不可靠。事实是，他们坚持把语言参考阅读几遍以后，编码的效率确实提升很多。
 ##  丰富的框架
 php有很多框架，用来简化web应用的开发。使用框架可以让你将自己思维完全放在业务实现上，不必过于关心诸如连接数据库的操作或者使用缓存的操作。现在流行的ThinkPHP( http://www.thinkphp.cn/ )，CI(http://codeigniter.org.cn/ )，Yii( http://www.yiiframework.com/ ),laravel( http://laravel.com/),phalcon (https://phalconphp.com/zh/ )等等，各有各的特点。读者可以都尝试一下。
+
+## 联系我
+有想进一步学习的朋友也可以加我微信：
+![微信二维码](images/weixin.jpg)
+喜欢的朋友，码字不易，请您打个赏：
+![打个赏](images/weixin-reward.png)
