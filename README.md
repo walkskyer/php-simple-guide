@@ -14,7 +14,10 @@ php的开发文档( http://php.net/manual/zh/ )内容很丰富，有语言参考
 php有很多框架，用来简化web应用的开发。使用框架可以让你将自己思维完全放在业务实现上，不必过于关心诸如连接数据库的操作或者使用缓存的操作。现在流行的ThinkPHP( http://www.thinkphp.cn/ )，CI(http://codeigniter.org.cn/ )，Yii( http://www.yiiframework.com/ ),laravel( http://laravel.com/),phalcon (https://phalconphp.com/zh/ )等等，各有各的特点。读者可以都尝试一下。
 
 ## 联系我
-有想进一步学习的朋友也可以加我微信：
+如果发现错误，欢迎您加我微信进行批评指正。当然，本人也想招收些学员，赚点外块：
+
 ![微信二维码](images/weixin.jpg)
+
 喜欢的朋友，码字不易，请您打个赏：
+
 ![打个赏](images/weixin-reward.png)
