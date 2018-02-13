@@ -19,6 +19,22 @@
 
 推荐大家这样写，特别是在基于一些框架或者cms的时候，非常重要。
 
+注释一下，也许有些同学确实像当初入行的我一样，还是不明白上面那句话的意思,简单翻译如下：
+
+```php
+
+if(!defined('ANY_NAME')){
+    define('ANY_NAME','any value');
+}
+
+```
+
+再把这个if重新表示一遍：
+
+`!defined('ANY_NAME') && define('ANY_NAME','any value');`
+
+怎么样是不是有点感觉了？
+
 ## 预定义常量
 
 
