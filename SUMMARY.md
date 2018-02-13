@@ -7,6 +7,7 @@
   * [开发环境与生产环境](zhun_bei/env.md)
   * [从哪里开始](zhun_bei/start.md)
   * [html](zhun_bei/html.md)
+  * git
 * [语言细节](01-xi-jie/01-xi-jie.md)
   * [1.1 类型](01-xi-jie/02-type.md)
   * [1.2变量](01-xi-jie/03-variable.md)
@@ -15,9 +16,6 @@
   * [数组](01-xi-jie/05-array.md)
   * [字符串](01-xi-jie/06-string.md)
   * [会话和小甜饼](01-xi-jie/07-session-cookie.md)
-* 常量
-  * 自定义常量
-  * 魔术常量
 * 函数
   * 系统函数
   * 魔术函数
