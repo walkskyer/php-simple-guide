@@ -2,7 +2,7 @@
 
 ## 如何开始
 
-大家只需记住一句话就可以了：“Read The Fuch Manaul”简写为RTFM。
+大家只需记住一句话就可以了：“Read The Fuck Manaul”简写为RTFM。
 
 ## 从这里开始
 
